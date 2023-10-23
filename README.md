@@ -20,7 +20,7 @@ PFCC开发者故事分享
 ## 怎样使用这个项目
 看到本页可能证明你会科学上网，建议以此方式浏览本网站，否则可能遇到加载不出等问题
 
-本项目已部署到 Github Pages，可以[在线](https://github.com/PFCCLab/pfcclab.github.io/tree/main/#/)浏览
+本项目已部署到 Github Pages，可以[在线](https://pfcclab.github.io/#/)浏览
 
 也可以将本项目拉取到本地运行，本项目使用 docsify 编译，因此本地需有 [nodejs](https://nodejs.org/en) 环境，建议下载 LTS 版本，下载后全局安装 docsify 依赖，然后运行即可。
 
